@@ -9,6 +9,7 @@ import android.widget.TextView
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
+    // store data for every input in this activity
     private lateinit var edtHeight : EditText
     private lateinit var edtWeight : EditText
     private lateinit var btncalculate : Button
@@ -37,17 +38,6 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
             tvResult.text = bmi.toString()
         }
 
-
-
     }
-
-
-        /*if (v?.id == R.id.bmi_category) {
-            val bmiResult = tvResult.text.toString().trim()
-            return when (bmiResult) {
-                is < 16 -> "severe thin"
-                is 16..17 -> "moderate thinnes"
-            }
-        }*/
 
 }
