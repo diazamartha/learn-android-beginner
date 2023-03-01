@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgeToMinutesApp</string>
+    <string name="Selected_Date">Selected Date</string>
+    <string name="age_in_minutes">1440</string>
+</resources>
