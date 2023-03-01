@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="insert_your">INSERT YOUR</string>
+    <string name="height">Height (in m)</string>
+    <string name="weight">Weight</string>
+    <string name="calculate_bmi">Calculate BMI</string>
+    <string name="your_bmi_is">Your BMI Is:</string>
+    <string name="tv_result">Here\'s your result</string>
+    <string name="bmi_category">Here\'s your BMI category</string>
+</resources>
