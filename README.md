@@ -1,6 +1,6 @@
 # learn-android-beginner
 
-This repo contains my project based learning application while a learn android.
+This repo contains my project based learning application while learn android.
 
 It cover basic concept in android like:
 * Activity
