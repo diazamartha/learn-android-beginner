@@ -8,3 +8,5 @@ It cover basic concept in android such as:
 * View and viewgroup
 * Style and theme
 * RecyclerView
+
+Inside every folder, there is application that I made
