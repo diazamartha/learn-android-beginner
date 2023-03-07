@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">ProyekAkhirAndroidPemula</string>
+    <string name="akatsuki_name">Anggota Akatsuki</string>
+    <string name="akatsuki_backstory">Back story</string>
+    <string name="about_me">About Me</string>
+    <string name="detail_activity">This is detail activity</string>
+    <string name="backstory">Backstory</string>
+    <string name="nama_diri">Diaz Amartha</string>
+    <string name="email">diazamar99@gmail.com</string>
+    <string name="special_jutsu">Special Jutsu</string>
+
+    <string-array name="data_name">
+        <item>Nagato</item>
+        <item>Pain</item>
+        <item>Itachi</item>
+        <item>Tobi</item>
+        <item>Kisame</item>
+        <item>Orochimaru</item>
+        <item>Konan</item>
+        <item>Deidara</item>
+        <item>Kakuzu</item>
+        <item>Sasori</item>
+    </string-array>
+
+    <string-array name="data_backstory">
+        <item>Yahiko willingly killed himself so that Nagato would not have to choose between him and Konan. Though he had hoped to save his friends soul through his sacrifice, the Rinnegan user was destined for a path of villainy. Having lost one of his only pillars of stability as a child, he repurposed the Akatsuki as an instrument of destruction. Hellbent on capturing the tailed beasts, he would not rest until Konoha - and the other four great nations - experienced the same pain that he did.</item>
+        <item>Yahiko was a shinobi belonging to the Village Hidden by the Rain. He was one of the pupils of Jiraiya, one of the Three Legendary Sannin of the Hidden Leaf Village. Yahiko played a significant role in the series. He inspired Nagato Uzumaki, who played a major role and shaped the story of the series. Yahiko was the one who initially founded the popular organization, Akatsuki.</item>
+        <item>When the Uchiha clan prepared to mount an attack on the Leaf, Itachi knew they had to be stopped. If he did nothing, the civil war would have spread to the other four nations and caused an unprecedented amount of death. This tarnished his reputation in the eyes of his brother and compelled his sibling to devote his entire life toward bringing him down. Rather than explaining his circumstances, Itachi bore his accusations willingly since he knew that emotional turmoil was a prerequisite for evolving the Sharingan.</item>
+        <item>Obito\'s life was a slew of tragedies, beginning with an unfortunate mission he partook in alongside Kakashi and Rin. After his body was crushed by a boulder, he gave Kakashi his Sharingan as a final parting gift.</item>
+        <item>Kisame was once a Mist village ninja who was assigned to guard the Cypher Division. When it seemed as if the situation was untenable (since the group was surrounded by Ibiki and other Konoha shinobi), he followed the orders Fuguki gave to kill his own comrades and safeguard sensitive intel. However, he would later discover that Fuguki himself was selling information to the village\'s enemies. Enraged and disenfranchised, Kisame killed the man and took his sword as a trophy and utility for the bleak future ahead.</item>
+        <item>Orochimaru was once an orphan who became a pupil of Hiruzen Sarutobi alongside Jiraiya and Tsunade. Orochimaru stood out as a genius - his talents, knowledge, and determination were considered by Hiruzen to be that of a prodigy seen only once a generation.</item>
+        <item>Konan was one of the original founders of the Akatsuki alongside Nagato and Yahiko. She was used by Hanzo to force Nagato to choose between the lives of his close friends. Unwilling to allow the man to live with permanent psychological scars, Yahiko made the decision for Nagato and took his own life.</item>
+        <item>Deidara\'s motivation is somewhat more understandable though nonetheless abhorrent. He seeks to create "art" through his detonation clay, resulting in a divide between himself and the Stone village since he preferred living victims for his performances. This made him an attractive candidate to join the Akatsuki, even if he might not share their moral platitudes about reshaping the world. So long as they condoned his obsession with violence and destruction, he committed himself to their service. </item>
+        <item>Kakuzu was assigned the task of defeating Hashirama Senju, the First Hokage and a man often referred to as "the God of Shinobi." Predictably, this mission was an appalling failure, though his village would not excuse it regardless of how impossible the task was. This resulted in the puppet master becoming maligned and sadistic toward others. He attacked innocent shinobi and fashioned their bodies into dolls, creating a mockery of life and fulfilling the vacancy years of abandonment had created in his heart. </item>
+        <item>The lives of Sasori\'s parents were taken in war, forcing him to spend his childhood with Chiyo and with much loneliness. Unlike Konan, he never knew the hospitality of Jiraiya or the companionship of having friends.</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>@drawable/nagato</item>
+        <item>@drawable/pain</item>
+        <item>@drawable/itachi</item>
+        <item>@drawable/tobi</item>
+        <item>@drawable/kisame</item>
+        <item>@drawable/orochimaru</item>
+        <item>@drawable/konan</item>
+        <item>@drawable/deidara</item>
+        <item>@drawable/kakuzu</item>
+        <item>@drawable/sasori</item>
+    </string-array>
+
+    <string-array name="data_specialjutsu">
+        <item>Rinne tensei</item>
+        <item>Shinra tensei</item>
+        <item>Susano\'o and Amaterasu</item>
+        <item>Kamui</item>
+        <item>Samebito</item>
+        <item>Edo tensei</item>
+        <item>Tenshi no fukuin</item>
+        <item>Explosion corps</item>
+        <item>Zokkoku</item>
+        <item>Akahigi: Hyakki no Soe</item>
+    </string-array>
+</resources>
